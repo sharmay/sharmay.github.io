@@ -1,0 +1,30 @@
+#pages:
+#  stage: deploy
+#  script:
+#  - touch public
+#  artifacts:
+#    paths:
+#    - public
+#  only:
+#  - master
+
+#
+image: registry.gitlab.com/pages/hugo:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+  HUGO_ENV: production
+
+test:
+  script:
+  - hugo
+  except:
+  - main
+pages:
+  script:
+  - hugo --minify --baseURL 'https://yogeshsharma.gitlab.io/'
+  artifacts:
+    paths:
+    - public
+  only:
+  - main

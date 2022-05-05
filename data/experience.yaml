@@ -1,0 +1,93 @@
+experience_list:
+  - {
+      year: 'Oct 2018',
+      title: 'Director, Solutions Engineering',
+      company: 'Crunchy Data',
+      summary: 'Manage Solutions Engineering (SE) team. In this role I was tasked to create various solutions to meet client and internal teams need. Activities included were Requirements, Design, and Code Reviews for projects. Key projects successfully completed are<br>- Crunchy HA PostgreSQL<br>- Crunchy PostgreSQL<br>- Crunchy Monitoring<br>- Crunchy PostgreSQL STIG Automation<br>- PostgreSQL Prometheus Adapter'
+    }
+  - {
+      year: 'Oct 2017',
+      title: 'Senior, Data Architect',
+      company: 'Crunchy Data',
+      summary: 'In this Role I was tasked to help client with their requirements, design and development.<br>- Create PostgreSQL HA based on pacemaker/corosync<br>- Create PGMonitor a PostgreSQL monitoring, based on Prometheus, Exporters, and Grafana.<br>- Create a remote monitoring system using Icinga2, Prometheus exporters, exporter2perfdata, and Grafana for client database monitoring'
+    }
+  - {
+      year: 'Oct 2015',
+      title: 'Data Architect',
+      company: 'Crunchy Data',
+      summary: 'As a Data Architect, I created<br>- infrastructure for RPM building<br>- Support team formation<br>- Ticketing system selection and setup<br>- Customer support hot line<br>I started and lead Crunchy Support Team to streamline and organize "Crunchy Support"'
+    }
+  - {
+      year: 'May 2015',
+      title: 'Director Software Engineering',
+      company: 'OSS Expert LLC',
+      summary: 'Provide support for Open Source. PostgreSQL, Linux support and system design. Manage clients and ensure their issues are resolved as per their expectations'
+    }
+  - {
+      year: 'Mar 2013',
+      title: 'Manager Software Engineering',
+      company: 'OSS Expert LLC (formerly credativ US)',
+      summary: 'Provide support for Open Source. PostgreSQL, Linux support and system design. Manage clients and ensure their issues are resolved as per their expectations'
+    }
+  - {
+      year: '2010',
+      title: 'Staff Software Developer',
+      company: 'Cymer Inc',
+      summary: 'Adapt MSC as the EUV Controller. Manage on site and off site teams, review requirement, design and technical docs. Design and Discuss software architecture and development.'
+    }
+  - {
+      year: '2008',
+      title: 'Manager New Products',
+      company: 'Cymer Inc',
+      summary: 'Manage on-site and off-site teams for MSC software development and New products design and development. Activities includes Agile based development cycle based on Product Development Process (PDP)'
+    }
+  - {
+      collapsed: 1,
+      year: 'Feb 2006',
+      title: 'Senior Software Develop',
+      company: 'Cymer Inc',
+      summary: 'Work on requirements, Design and Development of Master System Controller. Activities include code development, Proof of concept work, design discussion, testing and periodic travel to integration site.'
+    }
+  - {
+      collapsed: 1,
+      year: 'Feb 2005',
+      title: 'Software Developer',
+      company: 'Cymer Inc',
+      summary: 'Design and develop Master System Controller (MSC) for TCZ flat panel system. MSC was designed for versatility due to unavailability of many hardware devices as they were still under development and communication was not yet developed.'
+    }
+  - {
+      collapsed: 1,
+      year: 'Oct 2000',
+      title: 'Systems Analyst / DBA',
+      company: '',
+       Incsummary: 'Work as a Oracle DBA to help with Oracle DB optimization for CymerOnLine (COL). Later COL was converted to use PostgreSQL.',
+    }
+  - {
+      collapsed: 1,
+      year: 'Mar 1998',
+      title: 'Systems Analyst / DBA',
+      company: '',
+      summary: 'First flight of my life, first overseas job, and first snow all happened when I came to USA and started working a consultant at Department of management & Budget in Lansing, MI and 6 months in Minneapolis, MN.'
+    }
+  - {
+      collapsed: 1,
+      year: 'Jan 1995',
+      title: 'Systems Analyst / DBA',
+      company: 'Rajasthan Financial Corporation (RFC)',
+      summary: 'Joined Rajasthan Financial Corporation and worked in their IT department. Good to see some high end computer systems, a line printer and finally a dial up modem.'
+    }
+  - {
+      collapsed: 1,
+      year: 'Oct 1992',
+      title: 'Software Developer',
+      company: 'Pharma Traders',
+      summary: 'After completing a Diploma in Computer Science, I started working first real Job working computers. Looked at their current clipper based software and suggested redesign in FoxPro (for MSDOS). Along with day to day activities software was development to manage their business. Later one other local business owners also started using this new software'
+    }
+  - {
+      collapsed: 1,
+      year: 'Jul 1990',
+      title: 'Internship',
+      company: 'Hotel Arya Niwas',
+      summary: 'While pursuing my bachelors degree in accounting, I started an internship as an accounts assistant. This is where my life has a critical turnaround event. First time in life I saw an IBM XT 8088 system with dual 5.25" floppy drives. This is when I started learning computer and changed my career.'
+    }
+

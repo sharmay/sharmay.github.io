@@ -1,0 +1,38 @@
+contacts_list:
+  - {
+      name: "Yogesh @ LinkedIn",
+      url: "https://linkedin.com/in/mryogeshsharma",
+      icon_class: "fa-brands fa-linkedin"
+    }
+  - {
+      name: "SharmaY @ Github",
+      url: "https://github.com/sharmay",
+      icon_class: "fa-brands fa-github"
+    }
+  - {
+      name: "Notes and Thoughts",
+      url: "https://blog.catprosystems.com/",
+      icon_class: "fa-solid fa-blog"
+    }
+xxx:
+  - {
+      name: ,
+      url: ,
+      icon_class:
+    }
+  - {
+      name: ,
+      url: ,
+      icon_class:
+    }
+  - {
+      name: ,
+      url: ,
+      icon_class:
+    }
+  - {
+      name: ,
+      url: ,
+      icon_class:
+    }
+

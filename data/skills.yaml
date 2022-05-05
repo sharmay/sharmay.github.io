@@ -1,0 +1,23 @@
+skills_list:
+  - { name: C, level: 7 }
+  - { name: C+, level: 8 }
+  - { name: golang, level: 4 }
+  - { name: rust, level: 2 }
+  - { name: java, level: 6 }
+  - { name: python, level: 8 }
+  - { name: bash, level: 9 }
+  - { name: PostgreSQL, level: 9 }
+  - { name: patroni, level: 8 }
+  - { name: Oracle, level: 3 }
+  - { name: MySQL/MariaDB, level: 2 }
+  - { name: MS SQL Server, level: 1 }
+  - { name: django, level: 4 }
+  - { name: hugo, level: 7 }
+  - { name: Networking, level: 7 }
+  - { name: Linux, level: 8 }
+  - { name: Docker, level: 4 }
+  - { name: Podman, level: 4 }
+  - { name: Ansible, level: 9 }
+  - { name: RPM Packaging, level: 7 }
+  - { name: Prometheus/Grafana, level: 6 }
+

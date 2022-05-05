@@ -1,0 +1,8 @@
+awards_list:
+  - {
+      id: "US7848835",
+      description: "High power laser flat panel workpiece treatment system controller",
+      issued: "Dec 7, 2010",
+      url: "<a href='http://www.google.com/patents/US7848835'>See patent</a>",
+      image: "https://patentimages.storage.googleapis.com/54/93/e1/eb202f658d617d/US07848835-20101207-D00000.png"
+    }

@@ -1,0 +1,114 @@
+projects_list:
+  - {
+      collapsed: 0,
+      name: 'Prometheus Exporter to Icinga2 / Nagios perfdata converter',
+      platform: 'GoLang',
+      description: 'The exporter2perfdata is developed in golang, It captures Prometheus Exporters metric and generate Icinga2 / Nagios ingest able output. It supports metric comparison and validation. It also supports include and exclude filters',
+      url: 'Private Repository'
+    }
+  - {
+      collapsed: 0,
+      name: 'Crunchy PostgreSQL STIG Automation',
+      platform: 'Ansible Automation',
+      description: 'Ansible based playbook to make a PostgreSQL instance compliant to the STIG standard. This playbook supports three mode of operations.<br>Assesses - remote database against STIG controls.<br>dryrun - Runs "check" but additionally provides remediation steps as output.<br>Remediate - Performs the STIG assessment and takes the necessary corrective actions to bring the database into compliance.',
+      url: 'Private Repository'
+    }
+  - {
+      collapsed: 0,
+      name: 'PostgreSQL Prometheus Adapter',
+      platform: 'GoLang',
+      description: 'Prometheus storage adapter to store Prometheus metric in PostgreSQL database. Many optimizations ex: multiple partitioning schemes, copy instead of instead of insert, multi threaded, were added to improve performance,',
+      url: 'https://github.com/CrunchyData/postgresql-prometheus-adapter'
+    }
+  - {
+      collapsed: 0,
+      name: 'Crunchy High Availability PostgreSQL',
+      platform: 'Ansible Automation, PostgreSQL, Patroni, PGBounver, HAProxy, and PGMonitor',
+      description: 'A Production ready PostgreSQL which is automated using Ansible and very scalable.<br>A all in one, fully automated solution for deploying High Available PostgreSQL based on open source software.<br>Key design features are <br>- High Availability<br>- Disaster recovery<br>- Load balancing <br>- Connection Pooling<br>- Critical Metric collection <br>- Alerting<br>- Automated Healing.<br>PostgreSQL 9.6-14 are supported on CentOS 7, RedHat 7/8, Ubuntu Focal, and SuSe Enterprise Linux (SLES15)',
+      url: 'https://www.crunchydata.com/products/crunchy-high-availability-postgresql'
+    }
+  - {
+      collapsed: 1,
+      name: 'Crunchy PostgreSQL',
+      platform: 'Ansible Automation, PostgreSQL, PGBounver, and PGMonitor',
+      description: 'A Production ready automation to setup PostgreSQL as Primary or a Replica with pgBackrest and with / without pogBouncer. <br>- PostgreSQL 9.6-14 are supported<br>- CentOS 7, RedHat 7/8, Ubuntu Focal, and SuSe Enterprise Linux (SLES15)',
+      url: 'https://www.crunchydata.com/products/crunchy-high-availability-postgresql'
+    }
+  - {
+      collapsed: 1,
+      name: 'Crunchy Monitoring',
+      platform: 'Ansible Automation, PostgreSQL, and PGMonitor',
+      description: 'A Production ready automation to setup and configure PGMonitor.<br>- PostgreSQL 9.6-14 are supported<br>- CentOS 7, RedHat 7/8, Ubuntu Focal, and SuSe Enterprise Linux (SLES15)',
+      url: 'https://www.crunchydata.com/products/crunchy-high-availability-postgresql'
+    }
+  - {
+      collapsed: 0,
+      name: 'pgMonitor',
+      platform: 'Prometheus, Exporters, and Grafana',
+      description: 'pgMonitor is all-in-one tool to easily create a monitoring environment to visualize the health and performance of a PostgreSQL cluster.<br>pgMonitor combines a suite of tools to facilitate the collection and visualization of important metrics from the PostgreSQL instance(s) as well host environment<br>Main design feature of pgMonitor was to keep it highly configurable, so that advanced users can design their own metrics and visualizations<br>Running pgMonitor gives confidence in understanding how well PostgreSQL cluster is performing, and will provide the necessary information to make calculated adjustments to environment.',
+      url: 'https://github.com/CrunchyData/pgMonitor'
+    }
+  - {
+      collapsed: 0,
+      name: 'EUV Master Controller System (EUV MSC)',
+      platform: 'C++, PostgreSQL, Python, and Linux',
+      description: 'EUV MSC, a retrofit version of MSC to control a EUV Laser instead of flat panel manufacturing system. Modular design of MSC was very helpful in re-using it for EUV. Team has to create C++ drivers, add proper command mapping and system was able to control new devices.',
+      url: 'Closed Source'
+    }
+  - {
+      collapsed: 0,
+      name: 'Master System Controller (MSC)',
+      platform: 'C++, PostgreSQL, Python, and Linux',
+      description: 'MSC, a state of art high level controller for Cymer/TCZ flat panel displays manufacturing. This was a very complex database driver controller with recipes written in Python. System was highly modifiable with loadable C++ drivers, decoupling of hardware commands from software and heavy use of PostgreSQL. Diagnostic data loading was tweaked to use COPY with targeted inherited tables. Table inheritance was used to speed up old data purging and it also resulted in faster data queries.',
+      url: 'https://patents.google.com/patent/US7848835'
+    }
+  - {
+      collapsed: 1,
+      name: 'PostgreSQL STIG Validation and Reportingr',
+      platform: 'PostgreSQL, Linux, Checf/Inspec',
+      description: 'A Chef Inspec based PostgreSQL STIG validation and reporting tool with collaboration with MITRE group',
+      url: 'https://github.com/CrunchyData/pgstigcheck-inspec'
+    }
+  - {
+      collapsed: 1,
+      name: 'PostgreSQL STIG',
+      platform: 'PostgreSQL, Linux',
+      description: 'PostgreSQL 9.6 Secure Technical Implementation Guide (STIG) guidelines. Later STIG was updated to include PostgreSQL version 10, 11, and 12',
+      url: 'https://www.stigviewer.com/stig/postgresql_9.x/'
+    }
+  - {
+      collapsed: 1,
+      name: 'Field Data Server (COL)',
+      platform: 'PostgreSQL',
+      description: 'Central PostgreSQL server to store COL collected data in efficient manner. Optimize inbound and data load process and periodic PostgreSQL optimization',
+      url: 'Closed Source'
+    }
+  - {
+      collapsed: 1,
+      name: 'Cymer OnLine (COL)',
+      platform: 'Oracle / PostgreSQL, JSP, C++, Python, Java',
+      description: 'Innovative system to collect, process and store DUV Laser diagnostics, configuration and health data at periodic interval for predictive analysis and preventative maintenance. Software was design to utilize Oracle but later it was converted to use PostgreSQL.',
+      url: 'Closed Source'
+    }
+  - {
+      collapsed: 1,
+      platform: 'MSDOS, FoxPro, SQL',
+      name: 'Loan Aging Reporting',
+      description: 'Loan aging analysis software to eliminate lengthy manual printed reporting and convert to an easy to use user friendly interface',
+      url: 'Closed Source'
+    }
+  - {
+      collapsed: 1,
+      platform: 'MSDOS, FoxPro, SQL',
+      name: 'Hotel Management System',
+      description: 'Hotel front desk management software to handle Room Reservation, Allocation, and Invoicing.',
+      url: 'Closed Source'
+    }
+  - {
+      collapsed: 1,
+      platform: 'MSDOS, FoxPro, SQL',
+      name: 'Pharmaceutical Distribution Software for (wholesale)',
+      description: 'Pharmaceutical distribution system for managing wholesale distributors day to day working. Managing Purchase, Sales, Return, Inventory, and Accounting',
+      url: 'Closed Source'
+    }
+

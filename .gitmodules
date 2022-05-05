@@ -1,0 +1,3 @@
+[submodule "themes/curriculum-vitae"]
+	path = themes/curriculum-vitae
+	url = https://gitea.catprosystems.com/yogesh.sharma/curriculum-vitae
