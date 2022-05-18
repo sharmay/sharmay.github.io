@@ -198,4 +198,7 @@ dl {
     line-height: 24pt;
   }
 }
+details summary { 
+  cursor: pointer;
+}
 
