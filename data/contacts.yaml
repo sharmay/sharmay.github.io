@@ -1,38 +1,62 @@
 contacts_list:
   - {
+      print: 0,
       name: "Yogesh @ LinkedIn",
       url: "https://linkedin.com/in/mryogeshsharma",
       icon_class: "fa-brands fa-linkedin"
     }
   - {
+      print: 0,
       name: "SharmaY @ Github",
       url: "https://github.com/sharmay",
       icon_class: "fa-brands fa-github"
     }
   - {
+      print: 0,
       name: "Notes and Thoughts",
       url: "https://blog.catprosystems.com/",
       icon_class: "fa-solid fa-blog"
     }
-xxx:
   - {
-      name: ,
-      url: ,
-      icon_class:
+      print: 1,
+      name: "https://yogeshsharma.gitlab.io/",
+      url: "https://yogeshsharma.gitlab.io/",
+      icon_class: "fa-solid fa-globe"
     }
   - {
-      name: ,
-      url: ,
-      icon_class:
+      print: 1,
+      name: "https://sharmay.github.io/",
+      url: "https://sharmay.github.io/",
+      icon_class: "fa-solid fa-globe"
     }
   - {
-      name: ,
-      url: ,
-      icon_class:
+      print: 1,
+      name: "https://linkedin.com/in/mryogeshsharma",
+      url: "https://linkedin.com/in/mryogeshsharma",
+      icon_class: "fa-brands fa-linkedin"
     }
   - {
-      name: ,
-      url: ,
-      icon_class:
+      print: 1,
+      name: "https://github.com/sharmay",
+      url: "https://github.com/sharmay",
+      icon_class: "fa-brands fa-github"
+    }
+  - {
+      print: 1,
+      name: "https://blog.catprosystems.com/",
+      url: "https://blog.catprosystems.com/",
+      icon_class: "fa-solid fa-blog"
+    }
+  - {
+      print: 1,
+      name: 'yogesh.sharma@catprosystems.com',
+      url: 'mailto:yogesh.sharma@catprosystems.com',
+      icon_class: "fa-solid fa-envelope"
+    }
+  - {
+      print: 1,
+      name: '+1-562-499-9644',
+      url: 'tel:562-499-9644',
+      icon_class: "fa-solid fa-square-phone"
     }
 
