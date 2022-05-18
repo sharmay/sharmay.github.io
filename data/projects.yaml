@@ -10,28 +10,28 @@ projects_list:
       collapsed: 0,
       name: 'Prometheus Exporter to Icinga2 / Nagios perfdata converter',
       platform: 'GoLang',
-      description: 'The exporter2perfdata is developed in golang, It captures Prometheus Exporters metric and generate Icinga2 / Nagios ingest able output. It supports metric comparison and validation. It also supports include and exclude filters',
+      description: 'The exporter2perfdata is developed in golang, It captures Prometheus Exporters metric and generate Icinga2 / Nagios ingest able output. It supports metric comparison and validation. It also supports include and exclude filters.',
       url: 'Private Repository'
     }
   - {
       collapsed: 0,
       name: 'PostgreSQL Prometheus Adapter',
       platform: 'GoLang',
-      description: 'Prometheus storage adapter to store Prometheus metric in PostgreSQL database. Many optimizations ex: multiple partitioning schemes, copy instead of instead of insert, multi threaded, were added to improve performance,',
+      description: 'Prometheus storage adapter to store Prometheus metric in PostgreSQL database. Many optimizations ex: partitioning schemes, copy instead of instead of insert, multi threaded reads and writes, were key elements to improve performance.',
       url: 'https://github.com/CrunchyData/postgresql-prometheus-adapter'
     }
   - {
       collapsed: 0,
       name: 'pgMonitor',
       platform: 'Prometheus, Exporters, and Grafana',
-      description: 'pgMonitor is all-in-one tool to easily create a monitoring environment to visualize the health and performance of a PostgreSQL cluster.<br>pgMonitor combines a suite of tools to facilitate the collection and visualization of important metrics from the PostgreSQL instance(s) as well host environment<br>Main design feature of pgMonitor was to keep it highly configurable, so that advanced users can design their own metrics and visualizations.<br>Running pgMonitor gives confidence in understanding how well PostgreSQL cluster is performing, and will provide the necessary information to make calculated adjustments to environment.',
+      description: 'pgMonitor is an all-in-one tool to easily create a monitoring environment to visualize the health and performance of a PostgreSQL cluster.<br>pgMonitor combines a suite of tools to facilitate the collection and visualization of important metrics from the PostgreSQL instance(s) as well host environment<br>Main design feature is to keep it highly configurable, so that advanced users can design their own metrics and visualizations.<br>Running pgMonitor gives confidence in understanding how well PostgreSQL cluster is performing and will provide the necessary information to make calculated adjustments to the environment.',
       url: 'https://github.com/CrunchyData/pgMonitor'
     }
   - {
       collapsed: 0,
       name: 'EUV Master Controller System (EUV MSC)',
       platform: 'C++, PostgreSQL, Python, and Linux',
-      description: 'EUV MSC, a retrofit version of MSC to control a EUV Laser instead of flat panel manufacturing system. Modular design of MSC was very helpful in re-using it for EUV. Team has to create C++ drivers, add proper command mapping and system was able to control new devices.',
+      description: 'EUV MSC, a retrofit version of MSC to control a EUV Laser instead of flat panel manufacturing system. Modular design of MSC was very helpful in re-using it for EUV. Team had to create C++ drivers, add proper command mapping and system was able to control new devices.',
       url: 'Closed Source'
     }
   - {

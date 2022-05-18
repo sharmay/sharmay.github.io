@@ -3,43 +3,43 @@ experience_list:
       year: 'Oct 2018',
       title: 'Director, Solutions Engineering',
       company: 'Crunchy Data',
-      summary: 'Manage Solutions Engineering (SE) team. In this role I was tasked to create various solutions to meet client and internal teams need. Activities included were requirements gathering, design and code reviews and steering team in right direction. Some of the projects are:<br>- Crunchy HA PostgreSQL<br>- Crunchy PostgreSQL<br>- Crunchy Monitoring<br>- Crunchy PostgreSQL STIG Automation<br>- PostgreSQL Prometheus Adapter'
+      summary: 'Manage Solutions Engineering (SE) team. In this role I created various solutions to meet client and internal teams need. Activities included were requirements gathering, design and code reviews and steering team in right direction. Some of the projects are:<br>- Crunchy HA PostgreSQL<br>- Crunchy PostgreSQL<br>- Crunchy Monitoring<br>- Crunchy PostgreSQL STIG Automation<br>- PostgreSQL Prometheus Adapter'
     }
   - {
       year: 'Oct 2017',
       title: 'Senior Data Architect',
       company: 'Crunchy Data',
-      summary: 'In this Role I was tasked to help clients with their requirements, design and developing required solutions for them. Some of the projects were:<br>- Designed PostgreSQL HA based on pacemaker/corosync<br>- Developed pgMonitor a PostgreSQL monitoring, based on Prometheus, Exporters, and Grafana.<br>- Created a remote monitoring system using Icinga2, Prometheus exporters, exporter2perfdata, and Grafana for client database monitoring'
+      summary: 'I assisted clients with their requirements, design and developing required solutions. Some of the projects were:<br>- Designed PostgreSQL HA based on pacemaker/corosync<br>- Developed pgMonitor a PostgreSQL monitoring, based on Prometheus, Exporters, and Grafana.<br>- Created a remote monitoring system using Icinga2, Prometheus exporters, exporter2perfdata, and Grafana for client database monitoring'
     }
   - {
       year: 'Oct 2015',
       title: 'Data Architect',
       company: 'Crunchy Data',
-      summary: 'As a Data Architect, I started and lead Crunchy Support Team to streamline and organize "Crunchy Support"'
+      summary: 'As a Data Architect, I created Crunchy Support Team to streamline and organize "Crunchy Support".'
     }
   - {
       year: 'May 2015',
       title: 'Director Software Engineering',
       company: 'OSS Expert LLC',
-      summary: 'Provided support for Open Source. PostgreSQL, Linux support and system design. Managed clients and ensured that issues are resolved as per their expectations'
+      summary: 'Provided support for Open Source. PostgreSQL, Linux support and system design. Managed clients and ensured that issues are resolved as per their expectations.'
     }
   - {
       year: 'Mar 2013',
       title: 'Manager Software Engineering',
       company: 'OSS Expert LLC (formerly credativ US)',
-      summary: 'Provided support for Open Source. PostgreSQL, Linux support and system design. Managed clients and ensured that issues are resolved as per their expectations'
+      summary: 'Provided support for Open Source. PostgreSQL, Linux support and system design. Managed clients and ensured that issues are resolved as per their expectations.'
     }
   - {
       year: 'Feb 2010',
       title: 'Staff Software Developer',
       company: 'Cymer Inc',
-      summary: 'Adapted MSC as the EUV Controller. Managed on site and off site teams, review requirement, design and technical docs. Designed and Discussed software architecture and development.'
+      summary: 'Adapted MSC as the EUV Controller. Managed on site and off site teams and reviewed requirement, design and technical docs. Designed and discussed software architecture and helped with development.'
     }
   - {
       year: 'Feb 2008',
       title: 'Manager New Products',
       company: 'Cymer Inc',
-      summary: 'Managed on-site and off-site teams for MSC software development and New products design and development. Activities included Agile based development cycle and followed Product Development Process (PDP)'
+      summary: 'Managed on-site and off-site teams for MSC software development and new products design and development. Activities included Agile based development cycle and followed Product Development Process (PDP)'
     }
   - {
       collapsed: 1,
