@@ -3,7 +3,7 @@ projects_list:
       collapsed: 0,
       name: 'Crunchy High Availability PostgreSQL',
       platform: 'Ansible Automation, PostgreSQL, Patroni, pgBouncer, HAProxy, and pgMonitor',
-      description: 'A Production ready PostgreSQL which is automated using Ansible and very scalable.<br>A all in one, fully automated solution for deploying High Available PostgreSQL based on open source software.<br>Key design features are <br>- High Availability<br>- Disaster recovery<br>- Load balancing <br>- Connection Pooling<br>- Critical Metric collection <br>- Alerting<br>- Automated Healing.<br>PostgreSQL 9.6-14 are supported on CentOS 7, RedHat 7/8, Ubuntu Focal, and SuSe Enterprise Linux (SLES15)',
+      description: 'A Production ready PostgreSQL which is automated using Ansible and very scalable.<br>A all in one, fully automated solution for deploying High Available PostgreSQL based on open source software. Key design features are:<br>- High Availability<br>- Disaster recovery<br>- Load balancing <br>- Connection Pooling<br>- Critical Metric collection <br>- Alerting<br>- Automated Healing.<br>PostgreSQL 9.6-14 are supported on CentOS 7, RedHat 7/8, Ubuntu Focal, and SuSe Enterprise Linux (SLES15)',
       url: 'https://www.crunchydata.com/products/crunchy-high-availability-postgresql'
     }
   - {
@@ -24,7 +24,7 @@ projects_list:
       collapsed: 0,
       name: 'pgMonitor',
       platform: 'Prometheus, Exporters, and Grafana',
-      description: 'pgMonitor is all-in-one tool to easily create a monitoring environment to visualize the health and performance of a PostgreSQL cluster.<br>pgMonitor combines a suite of tools to facilitate the collection and visualization of important metrics from the PostgreSQL instance(s) as well host environment<br>Main design feature of pgMonitor was to keep it highly configurable, so that advanced users can design their own metrics and visualizations<br>Running pgMonitor gives confidence in understanding how well PostgreSQL cluster is performing, and will provide the necessary information to make calculated adjustments to environment.',
+      description: 'pgMonitor is all-in-one tool to easily create a monitoring environment to visualize the health and performance of a PostgreSQL cluster.<br>pgMonitor combines a suite of tools to facilitate the collection and visualization of important metrics from the PostgreSQL instance(s) as well host environment<br>Main design feature of pgMonitor was to keep it highly configurable, so that advanced users can design their own metrics and visualizations.<br>Running pgMonitor gives confidence in understanding how well PostgreSQL cluster is performing, and will provide the necessary information to make calculated adjustments to environment.',
       url: 'https://github.com/CrunchyData/pgMonitor'
     }
   - {

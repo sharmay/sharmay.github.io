@@ -3,13 +3,13 @@ experience_list:
       year: 'Oct 2018',
       title: 'Director, Solutions Engineering',
       company: 'Crunchy Data',
-      summary: 'Manage Solutions Engineering (SE) team. In this role I was tasked to create various solutions to meet client and internal teams need. Activities included were requirements gathering, design and code reviews and steering team in right direction. Some of the projects are<br>- Crunchy HA PostgreSQL<br>- Crunchy PostgreSQL<br>- Crunchy Monitoring<br>- Crunchy PostgreSQL STIG Automation<br>- PostgreSQL Prometheus Adapter'
+      summary: 'Manage Solutions Engineering (SE) team. In this role I was tasked to create various solutions to meet client and internal teams need. Activities included were requirements gathering, design and code reviews and steering team in right direction. Some of the projects are:<br>- Crunchy HA PostgreSQL<br>- Crunchy PostgreSQL<br>- Crunchy Monitoring<br>- Crunchy PostgreSQL STIG Automation<br>- PostgreSQL Prometheus Adapter'
     }
   - {
       year: 'Oct 2017',
       title: 'Senior Data Architect',
       company: 'Crunchy Data',
-      summary: 'In this Role I was tasked to help clients with their requirements, design and developing required solutions for them.<br>- Designed PostgreSQL HA based on pacemaker/corosync<br>- Developed PGMonitor a PostgreSQL monitoring, based on Prometheus, Exporters, and Grafana.<br>- Created a remote monitoring system using Icinga2, Prometheus exporters, exporter2perfdata, and Grafana for client database monitoring'
+      summary: 'In this Role I was tasked to help clients with their requirements, design and developing required solutions for them. Some of the projects were:<br>- Designed PostgreSQL HA based on pacemaker/corosync<br>- Developed pgMonitor a PostgreSQL monitoring, based on Prometheus, Exporters, and Grafana.<br>- Created a remote monitoring system using Icinga2, Prometheus exporters, exporter2perfdata, and Grafana for client database monitoring'
     }
   - {
       year: 'Oct 2015',
@@ -66,7 +66,7 @@ experience_list:
       collapsed: 1,
       year: 'Mar 1998',
       title: 'Systems Analyst / DBA',
-      company: '',
+      company: 'Everest Solutions',
       summary: 'First flight of my life, first overseas job, and first snow all happened when I came to USA and started working a consultant at Department of management & Budget in Lansing, MI and 6 months in Minneapolis, MN.'
     }
   - {
