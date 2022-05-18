@@ -179,6 +179,9 @@ dl {
   .cv {
     grid-template-columns: 60% 30%;
   }
+  .onlyPrint {
+    display: none;
+  }
 }
 
 .cv-progress {
@@ -187,6 +190,9 @@ dl {
 }
 
 @media print {
+  .onlyScreen {
+    display: none;
+  }
   img {
     display: none;
   }
@@ -194,11 +200,22 @@ dl {
     background: none;
     color: #000;
     font-family: Georgia, serif;
-    font-size: 16pt;
-    line-height: 24pt;
+    font-size: 12pt;
+    line-height: 16pt;
+    break-inside: avoid;
+  }
+  article div {
+    break-inside: avoid;
   }
 }
 details summary { 
   cursor: pointer;
+}
+.ahref {
+  text-decoration: none;
+  padding-left: 0.5rem;
+  font-family: arial;
+  font-size: 14pt;
+  color: #000;
 }
 
