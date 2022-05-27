@@ -10,8 +10,8 @@ projects_list:
       collapsed: 0,
       name: 'Prometheus Exporter to Icinga2 / Nagios perfdata converter',
       platform: 'GoLang',
-      description: 'The exporter2perfdata is developed in golang, It captures Prometheus Exporters metric and generate Icinga2 / Nagios ingest able output. It supports metric comparison and validation. It also supports include and exclude filters.',
-      url: 'Private Repository'
+      description: 'The exporter2perfdata is developed in golang, It captures Prometheus Exporters metric and generates Icinga2 / Nagios ingest able output. It supports metric comparison and validation. It also supports include and exclude filters.',
+      url: 'https://github.com/CrunchyData/exporter2perfdata'
     }
   - {
       collapsed: 0,
