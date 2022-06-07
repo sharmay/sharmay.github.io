@@ -3,7 +3,7 @@ projects_list:
       collapsed: 0,
       name: 'Crunchy High Availability PostgreSQL',
       platform: 'Ansible Automation, PostgreSQL, Patroni, pgBouncer, HAProxy, and pgMonitor',
-      description: 'A Production ready PostgreSQL which is automated using Ansible and very scalable.<br>A all in one, fully automated solution for deploying High Available PostgreSQL based on open source software. Key design features are:<br>- High Availability<br>- Disaster recovery<br>- Load balancing <br>- Connection Pooling<br>- Critical Metric collection <br>- Alerting<br>- Automated Healing.<br>PostgreSQL 9.6-14 are supported on CentOS 7, RedHat 7/8, Ubuntu Focal, and SuSe Enterprise Linux (SLES15)',
+      description: 'A production-ready PostgreSQL which is automated using Ansible and very scalable.<br>A all in one, fully automated solution for deploying High Available PostgreSQL based on open source software. Key design features are:<br>- High Availability<br>- Disaster recovery<br>- Load balancing <br>- Connection Pooling<br>- Critical Metric collection <br>- Alerting<br>- Automated Healing.<br>PostgreSQL 9.6-14 are supported on CentOS 7, RedHat 7/8, Ubuntu Focal, and SuSe Enterprise Linux (SLES15)',
       url: 'https://www.crunchydata.com/products/crunchy-high-availability-postgresql'
     }
   - {
@@ -45,21 +45,21 @@ projects_list:
       collapsed: 1,
       name: 'Crunchy PostgreSQL',
       platform: 'Ansible Automation, PostgreSQL, pgBouncer, and pgMonitor',
-      description: 'A Production ready automation to setup PostgreSQL as Primary or a Replica with pgBackrest and with / without pgBouncer. <br>- PostgreSQL 9.6-14 are supported<br>- CentOS 7, RedHat 7/8, Ubuntu Focal, and SuSe Enterprise Linux (SLES15)',
+      description: 'A production-ready automation to setup PostgreSQL as Primary or a Replica with pgBackrest and with / without pgBouncer. <br>- PostgreSQL 9.6-14 are supported<br>- CentOS 7, RedHat 7/8, Ubuntu Focal, and SuSe Enterprise Linux (SLES15)',
       url: 'https://www.crunchydata.com/products/crunchy-high-availability-postgresql'
     }
   - {
       collapsed: 1,
       name: 'Crunchy Monitoring',
       platform: 'Ansible Automation, PostgreSQL, and pgMonitor',
-      description: 'A Production ready automation to setup and configure pgMonitor.<br>- PostgreSQL 9.6-14 are supported<br>- CentOS 7, RedHat 7/8, Ubuntu Focal, and SuSe Enterprise Linux (SLES15)',
+      description: 'A production-ready automation to setup and configure pgMonitor.<br>- PostgreSQL 9.6-14 are supported<br>- CentOS 7, RedHat 7/8, Ubuntu Focal, and SuSe Enterprise Linux (SLES15)',
       url: 'https://www.crunchydata.com/products/crunchy-high-availability-postgresql'
     }
   - {
       collapsed: 1,
       name: 'Crunchy PostgreSQL STIG Automation',
       platform: 'Ansible Automation',
-      description: 'Ansible based playbook to make a PostgreSQL instance compliant to the STIG standard. This playbook supports three mode of operations.<br>Assesses - remote database against STIG controls.<br>dryrun - Runs "check" but additionally provides remediation steps as output.<br>Remediate - Performs the STIG assessment and takes the necessary corrective actions to bring the database into compliance.',
+      description: 'Ansible-based playbook to make a PostgreSQL instance compliant to the STIG standard. This playbook supports three mode of operations.<br>Assesses - remote database against STIG controls.<br>dryrun - Runs "check" but additionally provides remediation steps as output.<br>Remediate - Performs the STIG assessment and takes the necessary corrective actions to bring the database into compliance.',
       url: 'Private Repository'
     }
   - {
