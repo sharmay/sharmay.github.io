@@ -1,5 +1,11 @@
 experience_list:
   - {
+      year: 'Jul-2022',
+      title: 'Manager, Software Development',
+      company: 'Amazon.com (AWS RDS Open Source Databases)',
+      summary: 'Manage PostgreSQL projects and upstream contributions'
+    }
+  - {
       year: 'Oct 2018',
       title: 'Director, Solutions Engineering',
       company: 'Crunchy Data',
